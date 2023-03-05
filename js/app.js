@@ -1,3 +1,15 @@
+/* TODOS   
+
+- silinenler alanı yapılacak - geri getir özelliği eklenecek
+
+- metine tıklandığında güncellensin
+
+- state change durumunda ekranın sağ alt köşesinde bildirim çıksın  (stacklensin üst üste -3 saniye sonra gitsin)
+
+
+
+*/
+
 //Select the elements
 const clear = document.querySelector(".clear");
 const dateElement = document.getElementById("date");
